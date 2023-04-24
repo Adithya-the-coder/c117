@@ -1,0 +1,7 @@
+body{
+    background:linear-gradient(yellow, orange, tan,  pink);
+}
+.btn-info:hover{
+background-color: deeppink;
+border-color: deeppink;
+}
